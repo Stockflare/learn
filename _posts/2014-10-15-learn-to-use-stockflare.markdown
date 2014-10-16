@@ -18,6 +18,8 @@ This is a [link inside a post](http://stockflare.com).
 
 >  This is a quote from some book and is "quoted" inside the post to identify it as such
 
+![Image alternate text](http://placehold.it/350x150)
+
 * Unordered list item
   * Sub list item
     * Sub sub list item
