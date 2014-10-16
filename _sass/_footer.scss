@@ -1,0 +1,43 @@
+footer {
+  display: block;
+  margin-top: 40px;
+  padding: 40px 0;
+  background: white;
+
+  h6 {
+    font-weight: normal;
+    font-size: 13px;
+    color: #b7b7b7;
+    margin: 0;
+  }
+
+  .spaced {
+    margin-top: 20px;
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  .links {
+    list-style: none;
+    padding: 0;
+
+    li {
+      float: left;
+      margin-left: 20px;
+
+      a {
+        color:#428bca
+      }
+
+      &:first-child {
+        margin-left: 0;
+      }
+    }
+  }
+
+  .reuters {
+    text-align: right;
+  }
+}

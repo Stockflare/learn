@@ -2,22 +2,83 @@
 layout: default
 ---
 
-<div class="home">
+<div class="jumbotron hidden-xs">
+  <div class="container">
 
-  <h1 class="page-heading">Posts</h1>
+    <div class="col-md-5 col-sm-12 text-left">
+      <div class="vertically-centered">
+        <div>
+          <h1>Stockflare / Education</h1>
+          <p>Need a little help? The following tutorials explain how to use Stockflare and get started as an investor. </p>
+        </div>
+      </div>
+    </div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <div class="col-md-5 col-md-offset-2 hidden-sm text-right">
+      <div class="vertically-centered">
+        <div>
+          <span class="icon icon-torsos-all large"></span>
+        </div>
+      </div>
+    </div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  </div>
+</div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<div class="page-content container">
+  <div class="row">
 
+    <div class="col-md-6">
+      <div class="row">
+        <section class="col-md-11 category">
+
+          <header>
+            <h2>Using Stockflare</h2>
+            <p>How to use our tools to get the most out of our analysis.</p>
+          </header>
+
+          <div class="articles">
+            {% for post in site.categories.stockflare %}
+            <article>
+              <header class="clearfix">
+                <h3 class="pull-left"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                <div class="pull-right difficulty {{ post.difficulty }}">{{ post.difficulty | capitalize }}</div>
+                <div class="pull-right time">{{ post.ttc }}</div>
+              </header>
+              <p>{{ post.excerpt }}</p>
+            </article>
+            {% endfor %}
+          </div>
+
+        </section>
+      </div>
+    </div>
+
+    <div class="col-md-6">
+      <div class="row">
+        <section class="col-md-11 col-md-offset-1 category">
+
+          <header>
+            <h2>New to Investing?</h2>
+            <p>Here are our suggestions on how to get started.</p>
+          </header>
+
+          <div class="articles">
+            {% for post in site.categories.investing %}
+            <article>
+              <header>
+                <h3 class="pull-left"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                <div class="pull-right difficulty {{ post.difficulty }}">{{ post.difficulty | capitalize }}</div>
+                <div class="pull-right time">{{ post.ttc }}</div>
+              </header>
+              <p>{{ post.excerpt }}</p>
+            </article>
+            {% endfor %}
+        </div>
+
+        </section>
+      </div>
+    </div>
+
+  </div>
 </div>

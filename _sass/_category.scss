@@ -1,0 +1,88 @@
+section.category {
+
+  margin-top: 40px;
+
+  & > header {
+
+    margin-bottom: 40px;
+
+    h2 {
+      font-size: 22px;
+      font-weight: 300;
+      color: #606074;
+      margin: 0;
+      margin-bottom: 10px;
+    }
+
+    p {
+      margin: 0;
+      color: #a7aab9;
+      font-size: 15px;
+      font-weight: 300;
+    }
+
+  }
+
+  .articles {
+
+    article {
+
+      border: solid 1px #e8eaf4;
+      border-top: none;
+      padding: 20px;
+
+      &:first-child {
+        border-top: solid 1px #e8eaf4;
+      }
+
+      & > header {
+
+        margin-bottom: 40px;
+
+        h3, .time, .difficulty {
+          font-size: 16px;
+          font-weight: 400;
+        }
+
+        h3 {
+          margin: 0;
+        }
+
+        .information {
+
+        }
+
+        .time {
+          margin-right: 40px;
+          color: #a7aab9;
+          font-weight: 500;
+        }
+
+        @media (min-width: 1px) and (max-width: 1180px) {
+          h3, .time, .difficulty {
+            float: none !important;
+          }
+
+          .time, .difficulty {
+            margin-top: 4px;
+          }
+        }
+
+      }
+
+      p {
+        margin: 0;
+        font-size: 15px;
+        color: #a7aab9;
+        line-height: 1.88;
+      }
+
+      &.advanced {
+        background: #f5f6fe;
+      }
+
+    }
+
+  }
+
+}
