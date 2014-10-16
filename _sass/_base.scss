@@ -10,6 +10,13 @@ div.vertically-centered {
 
 }
 
+a {
+  color: #4860EA;
+  &:active, &:hover, &:visited { color: #4860EA; }
+  &:hover { text-decoration: underline; }
+  &:active, &:visited { text-decoration: none; }
+}
+
 .difficulty {
 
   &.beginner {

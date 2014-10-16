@@ -14,15 +14,28 @@ The second paragraph becomes the first paragraph on the tutorial page, so that y
 
 There are three variables that need to be set for each tutorial, `ttc` (time-to-completion) and should be in the format of Xmin. The second is `difficulty` which can be either beginner, intermediate or advanced. Lastly, you need to determine which category this tutorial belongs in, currently we support `stockflare` or `investing`.
 
->  This is a quote from some book
+This is a [link inside a post](http://stockflare.com).
+
+>  This is a quote from some book and is "quoted" inside the post to identify it as such
+
+* Unordered list item
+  * Sub list item
+    * Sub sub list item
+* Unordered list item
+
+0. Ordered list item
+   0. Sub ordered list item
+0. Ordered list item
+   0. Another sub list item
+      0. Deep nested list item
+0. Ordered list item
 
 ## A title is here
 
-### adadawdawd
+### Subtitle
 
+#### Deeper Subtitle
 
-#### adadadadad
+##### Very deep subtitle
 
-##### adadadadad
-
-###### adadadadad
+###### Deepest subtitle available
