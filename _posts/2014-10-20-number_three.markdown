@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Learn to use Stockflare"
+title:  "Position Three"
 ttc:    5min
-difficulty: beginner
+difficulty: intermediate
 date:   2014-10-20 16:00:00
 categories: stockflare
 ---
