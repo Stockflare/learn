@@ -6,7 +6,7 @@ difficulty: beginner
 date:   2014-10-20 16:00:00
 categories: stockflare
 ---
-Learn how to search for any stock. See how to get to the summary and detailed analysis on that company. **The category for this post is "stockflare".**
+Learn how to search for any stock. See how to get to the summary and detailed analysis on that company.
 
 <iframe src="//player.vimeo.com/video/108550980?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="100%" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
