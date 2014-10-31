@@ -3,7 +3,7 @@ layout: post
 title:  "What are 5 star stocks"
 ttc:    8min
 difficulty: beginner
-date:   2014-10-31 17:10:00
+date:   2014-10-30 17:10:00
 categories: stockflare
 ---
 See how we rate companies and apply our star rating. Understand if 5 star stocks right for your portfolio.
