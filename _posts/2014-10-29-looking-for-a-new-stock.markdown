@@ -3,7 +3,7 @@ layout: post
 title:  "How to look for a new stock"
 ttc:    5min
 difficulty: beginner
-date:   2014-10-31 17:18:00
+date:   2014-10-29 17:18:00
 categories: stockflare
 ---
 Learn how to use Stockflare to find new ideas. How to find great businesses you've never heard of.
