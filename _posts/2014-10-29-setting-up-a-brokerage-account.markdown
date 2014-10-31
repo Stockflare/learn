@@ -3,7 +3,7 @@ layout: post
 title:  "How to st up a brokerage account in the US"
 ttc:    6min
 difficulty: beginner
-date:   2014-10-31 17:30:00
+date:   2014-10-29 17:30:00
 categories: investing
 ---
 How do you set up a brokerage account in the US
