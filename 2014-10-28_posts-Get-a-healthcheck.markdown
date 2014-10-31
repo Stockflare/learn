@@ -3,7 +3,7 @@ layout: post
 title:  "How to get a health check for your portfolio"
 ttc:    6min
 difficulty: intermediate
-date:   2014-10-31 17:22:00
+date:   2014-10-28 17:22:00
 categories: stockflare
 ---
 How to use Stockflare to run a health check on your portfolio.
