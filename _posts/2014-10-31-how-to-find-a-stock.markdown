@@ -8,6 +8,6 @@ categories: stockflare
 ---
 Learn how to search for any stock. See how to get to the summary and detailed analysis on that company.
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/83ZWef7nZ9w" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="525" src="//www.youtube.com/embed/83ZWef7nZ9w" frameborder="0" allowfullscreen></iframe>
 
 In this tutorial we explain how to search for any stock, anywhere in the world, using Stockflare.
