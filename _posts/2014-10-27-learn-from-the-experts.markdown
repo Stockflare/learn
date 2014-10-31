@@ -3,7 +3,7 @@ layout: post
 title:  "Learn from the experts"
 ttc:    6min
 difficulty: intermediate
-date:   2014-10-31 17:35:00
+date:   2014-10-27 17:35:00
 categories: investing
 ---
 Who are the experts that count.
