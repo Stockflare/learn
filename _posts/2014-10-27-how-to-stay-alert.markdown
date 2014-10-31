@@ -3,7 +3,7 @@ layout: post
 title:  "How to stay alert"
 ttc:    4min
 difficulty: intermediate
-date:   2014-10-31 17:23:00
+date:   2014-10-27 17:23:00
 categories: stockflare
 ---
 How to use our alerts to stay vigilant to key events that could impact your portfolio
