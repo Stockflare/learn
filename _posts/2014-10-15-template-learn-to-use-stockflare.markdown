@@ -2,7 +2,7 @@
 layout: post
 title:  "Learn to use Stockflare"
 ttc:    5min
-difficulty: beginner
+difficulty: advanced
 date:   2014-10-16 10:59:01
 categories: stockflare
 ---
