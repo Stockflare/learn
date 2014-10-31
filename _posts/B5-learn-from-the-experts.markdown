@@ -6,7 +6,7 @@ difficulty: intermediate
 date:   2014-10-31 17:35:00
 categories: investing
 ---
-Who are the experts that count
+Who are the experts that count.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/N1KywUtYegc" frameborder="0" allowfullscreen></iframe>
 
