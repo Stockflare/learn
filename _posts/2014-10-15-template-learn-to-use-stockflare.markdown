@@ -3,7 +3,7 @@ layout: post
 title:  "Learn to use Stockflare"
 ttc:    5min
 difficulty: advanced
-date:   2014-10-16 10:59:01
+date:   2014-10-17 10:59:01
 categories: stockflare
 ---
 The first paragraph from a post will be used as the excerpt for the tutorial content. But it will not be displayed on the tutorial's page. **The category for this post is "stockflare".**
