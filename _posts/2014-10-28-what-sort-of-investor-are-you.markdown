@@ -3,7 +3,7 @@ layout: post
 title:  "What sort of investor are you"
 ttc:    5min
 difficulty: intermediate
-date:   2014-10-31 17:32:00
+date:   2014-10-28 17:32:00
 categories: investing
 ---
 Let's work out what type of investor you are
