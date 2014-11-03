@@ -17,6 +17,7 @@ In this tutorial we explore why it's a good ideas to invest in stocks. We also l
 ### Table of contents
 
 We'll cover 4 topics
+
 0. Firstly what are stocks
 0. Secondly, how risky are they
 0. Thirdly, what are the alternatives
