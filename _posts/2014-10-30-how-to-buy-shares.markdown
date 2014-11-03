@@ -39,6 +39,7 @@ Next, you can do it yourself.
 Firstly you can get a financial advisor. There are lots of them and many with big brand names behind them.
 
 For example:
+
 * Fidelity
 * Morgan Stanley
 * Schwab
@@ -47,6 +48,7 @@ For example:
 Secondly, you can buy an investment fund. For example a mutual fund that is actively managed by a highly paid professional. Again, there are lots of very big and profitable businesses that offer these services.
 
 For example:
+
 * Blackrock
 * Fidelity
 * Franklin Templeton
@@ -55,13 +57,13 @@ For example:
 
 But be warned, these are not necessarily the best options for you, as there are typically high fees and they typically deliver poor performance.
 
-##### Let’s think about the fees first. 
+### Let’s think about the fees first. 
 
 Here’s a calculation direct from the US government. Say you save 25,000 dollars and you manage to grow it by 7% a year for 35 years. That’s pretty good. It’ll compound nicely. And let’s assume you pay fees of half a percent. Well, you’ll grow your savings 9 fold. 
 
 But let’s be more realistic on the fees. And increase it to one and half percent. They there is a dramatic decline in your savings. In fact a 28% decline. Wow that’s a big loss of savings.
 
-##### Next let’s look at the performance of the professionals.
+### Next let’s look at the performance of the professionals.
 
 * If we look at the 2,900 US funds only 1 out of every 9 managed to beat the market
 * In Europe it’s one in 5
@@ -74,13 +76,16 @@ So there is a really high chance that whoever you pick to be your manager will a
 ##### Well, you have to start with the right mindset.
 
 Firstly, investing starts with saving
+
 * the more you save, the bigger your savings
 * the sooner you save the larger they’ll grow
 
 Secondly, investing is a long term game.
+
 * There aren’t any easy quick wins.
 
 And thirdly, there really is only one skill you need to have.
+
 * And that’s common sense.
 * Simple as sounds, it’s not always easy to keep your head.
 
@@ -89,15 +94,18 @@ They you have it, just 3 things to get right.
 ##### Next let’s look at the tool kit.
 
 First, you’ll need a brokerage account. 
+
 * It’s a bit like a banks account, but instead of putting your cash in it, you put your stocks.
 * Probably the single most important thing to think about with your account is to make sure you minimise the fees you pay. It should be a small single digit dollar a trade account. Never a percentage of the transaction.
 
 Second, you should make sure you only invest in companies you know and understand.
+
 * Make sure they are businesses you want to own for the long term.
 * If you do this, you’ll avoid nasty surprises, as you’ll understand what’s going on with the business you’ve invested it. 
 * And if you are investing for the long term you’ll be minimising the trading costs.
 
 And finally, never put all your eggs in 1 basket.
+
 * That means never putting 100% of your money in stocks
 * And never having too concentrated a portfolio.
 
