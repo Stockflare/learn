@@ -6,7 +6,7 @@ difficulty: beginner
 date:   2014-10-30 17:10:00
 categories: stockflare
 ---
-See how we rate companies and apply our star rating. Understand if 5 star stocks right for your portfolio.
+See how we rate companies and apply our star rating. Understand if 5 star stocks are right for your portfolio.
 
 <iframe width="700" height="525" src="//www.youtube.com/embed/2GMIC-vtno4" frameborder="0" allowfullscreen></iframe>
 
