@@ -104,3 +104,7 @@ So there we go. Finding a new stock idea, picking stocks is pretty easy using th
 ### Conclusions
 
 Thanks for reading this tutorial and please let us know how you get on. Picking stocks is easy with Stockflare. So drop us a message and tell us what you find.
+
+### Presentation materials
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/41128635" width="702" height="590" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
