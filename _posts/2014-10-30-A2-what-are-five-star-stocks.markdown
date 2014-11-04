@@ -181,3 +181,7 @@ A 5 star rating is not a reason to buy a stock, it’s a reason to start conside
 ### Conclusion
 
 5 stars are Stockflare's way to help us and any of uses filter the tens of thousands of stocks you could by, easily. So please start exploring Stockflare. And we’d love to hear what you find. If there’s a 5 star stock you love, please get in touch. And better still, if there’s a 5 star stock you hate. Please let us know why.
+
+### Presentation materials
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/41128626" width="702" height="590" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
