@@ -115,3 +115,7 @@ So, if you can’t find something, please tell us. It’s pretty easy, the Conta
 ### Conclusion
 
 Thanks for reading this tutorial, and everyone here at Stockflare is keen to hear how you get on. So good luck picking stocks. And thanks for using Stockflare.
+
+### Presentation materials
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/41128619" width="702" height="590" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
