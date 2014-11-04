@@ -127,7 +127,9 @@ Though, they have one saving grace, which is the occassional interview with a le
 
 For the brokers, think of them as a way to judge the sentiment of the market. For the investors, think of them as a source of ideas. But neither are a replacement for you doing your own homework. And fortunately, that's what Stockflare is here to help you with.
  
+### Presentation materials
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/41128682" width="702" height="590" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 
 
