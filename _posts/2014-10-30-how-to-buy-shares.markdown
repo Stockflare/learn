@@ -6,7 +6,7 @@ difficulty: beginner
 date:   2014-10-30 17:15:00
 categories: investing
 ---
-What does it take to actively manage a share portfolio. Should you be managing stocks or hiring a professional?
+How do you buy shares? Should you be managing stocks by yourself or hiring a professional to invest for you?
 
 <iframe width="700" height="525" src="//www.youtube.com/embed/2GtLDs7YU2M" frameborder="0" allowfullscreen></iframe>
 
