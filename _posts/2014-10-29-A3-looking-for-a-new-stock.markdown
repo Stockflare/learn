@@ -12,7 +12,7 @@ Learn how to use Stockflare to find new ideas. How to find great businesses you'
 
 ## In this tutorial
 
-In this tutorial we explain how to use Stockflare to pick a new stock, to filter through the thousands of potential investment opportunities and find stocks that may be great investments for you.
+In this tutorial we explain how to use Stockflare to pick a new stock, to filter through the thousands of potential investment opportunities and find stocks that may be great investments for you. 
 
 ### Table of contents
 
