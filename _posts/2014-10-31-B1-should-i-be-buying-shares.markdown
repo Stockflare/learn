@@ -81,3 +81,7 @@ And fifth are gold, other commodities and currencies. I rank these as the riskie
 Yes, stocks are for everyone, and the key question is which ones. Fortunately, that’s what we at Stockflare are here to help you with.
 
 So it’s time to get started and work out which ones are for you. Scoot over to Stockflare. And please, let us know which ones you find and like!
+
+### Presentation materials
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/41128652" width="702" height="590" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
