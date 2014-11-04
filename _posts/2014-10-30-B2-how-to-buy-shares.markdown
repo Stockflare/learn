@@ -121,3 +121,7 @@ And finally, never put all your eggs in 1 basket.
 ### So what next?
 
 If you decide that you are going to manage your money yourself, we are  here to help.
+
+### Presentation materials
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/41128662" width="702" height="590" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
