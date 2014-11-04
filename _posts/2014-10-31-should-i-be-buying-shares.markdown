@@ -6,7 +6,7 @@ difficulty: beginner
 date:   2014-10-31 17:15:01
 categories: investing
 ---
-What does it take to actively manage a share portfolio. Should you even be considering stocks and shares?
+Should you be considering stocks and shares? What alternative investments are there to consider?
 
 <iframe width="700" height="525" src="//www.youtube.com/embed/wptJLKwGorc" frameborder="0" allowfullscreen></iframe>
 
