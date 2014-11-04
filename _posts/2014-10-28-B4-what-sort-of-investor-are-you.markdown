@@ -105,3 +105,7 @@ Just answer a simple question. Which do you want to do:
 ### Conclusion
 
 In this tutorial, we've given you a simple way to self-analyse your own investing strategy. Regardless of the school you follow, Stockflare is here to help you pick stocks. We help you search for growth, value and quality stocks.
+
+### Presentation materials
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/41128680" width="702" height="590" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
