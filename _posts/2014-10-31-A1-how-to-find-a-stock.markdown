@@ -14,37 +14,35 @@ Learn how to search for any stock. See how to get to the summary and detailed an
 
 In this tutorial we explain how to search for any stock, anywhere in the world, using Stockflare.
 
-### Table of Contents
+### Table of contents
 
-0. Firstly, we’ll show you just how simple it is to find any stock
-0. Then, we talk about what to do, once you found the stock you are looking for
-0. And finally we’ll wrap up with what to do, if you can’t find the stock you are looking for
+0. See how simple it is to find any stock
+0. What to do next
+0. And what if you can’t find the stock you are looking for
 
 ### Part 1. Searching for a stock
 
-Typically there are 3 starting points for searching for a stock
+Typically there are 3 starting points
 
 * You know the name of the company
-* You actually know its stock symbol
+* You  know its stock symbol
 * You can’t remember the exact name, but you know what it does, what sector it’s it
 
 ### Let’s look at how you use Stockflare in each of these cases
 
-Firstly, we need to pop up to the top of the page and click on Search. 
+Firstly, we need to pop up to the top of the page and click on Search. You’ll see this great big search bar. Let’s type in the name of a company. Say, Disney. And as we type the results start to display.
 
-You’ll see this great big search bar.
-
-Let’s type in the name of a company. Say, Disney
-
-And as we type the results start to display.
+![Image alternate text](http://placehold.it/350x150)
 
 Not only is Disney there, but we can see some summary analysis of Disney, here inside of search.
 
 ### Next, symbols & tickers
 
-let’s be a little more experienced, say we know that XOM is the ticker for Exxon Mobil, again we get a quick and correct answer, typing in its symbol
+If you are little more experienced, and know the ticker symbol, for example that XOM is the ticker for Exxon Mobil, again we get a quick and correct answer, typing in its symbol.
 
-### Finally, when you forgot the name
+![Image alternate text](http://placehold.it/350x150)
+
+### Finally, when you forget the name
 
 Let's think about those annoying situations when the name’s slipped your mind. For example, who’s that competitor to Coca-Cola. You know, the other cola guy. 
 
@@ -53,41 +51,52 @@ In this case, we don’t use search, but the "Find Ideas" option.
 Let’s say we are looking for that big competitor to Coca-Cola. 
 
 * Click on the Sector
-* Choose Consumer Food & Home
+* Choose Consumer (Food & Home)
 * And look through the answers
 * Ah, there it is Pepsi.
 
+![Image alternate text](http://placehold.it/350x150)
+
 So you can see that at Stockflare its really easy to find any stock:
 
-* We love big search bars.
+* We love big search bars
 * We serve up the results as you type
-* And there is some pretty useful information inside search, so you don’t actually have to click through to get the analysis
+* And there is some pretty useful information inside search, so you don’t actually have to click through to get the analysis.
 
 ### Part 2. How do you explore the details
 
 Now that we’ve seen how simple it is to find a stock, how do we explore any stock once we’ve found it.
 
-Let’s go back to the site, and search for McDonalds this time. Again, we use the big search bar.
+Let’s go back to the site, and search for McDonalds this time. Again, we use the big search bar. Now, let’s look at the summary data here inside search.
 
-Now, let’s look at the summary data here inside search.
+![Image alternate text](http://placehold.it/350x150)
 
 We can see
 
 * The price
 * The star rating
-* We can expand the widget to get details about these stars.
-* For example, things are pretty good at McDonalds in terms of it being a reasonable price, profitable, its paying dividends and Wall Street thinks it’s going up. But oh dear, the growth outlook is weak.
-* Here we can see a chart. And we can even email these details to a friend.
+* We can expand the widget to get details about these stars
+  * For example, things are pretty good at McDonalds in terms of it being a reasonable price, profitable, its paying dividends and Wall Street thinks it’s going up. But oh dear, the growth outlook is weak.
+* We can see a chart. 
+* And we can even email these details to a friend.
 
 But there is so much more to Stockflare. Just click through to the detailed stock page. And here we get some really great analysis.
 
 Look you can see just how weak the growth is at McDonalds. So yeah, its cheaper than its competitors, but right there in the growth box is the reason why?
 
+![Image alternate text](http://placehold.it/350x150)
+
 And further down the page, you can see lots of other analysis. For example, what could 100 shares bought today, grow to in value to in 7 years time.
+
+![Image alternate text](http://placehold.it/350x150)
 
 Plus at Stockflare, there are all the usual tools and information you’d expect. With background on the company, its financials.
 
-And even a pretty neat way to explore the competitors.
+![Image alternate text](http://placehold.it/350x150)
+
+And even a pretty neat way to explore the competitors. The higher the star rating the nearer the top of the list.
+
+![Image alternate text](http://placehold.it/350x150)
 
 So whether its a quick look with our summary data or digging into the details that interest you, Stockflare’s got all you need for a quick analysis of any stock.
 
@@ -99,9 +108,9 @@ What about the nightmare scenario, the one where you just can’t find the stock
 
 Over here at Stockflare, this sets off alarm bells. Personally, I get depressed when someone tells me they can’t find a stock. And then our inner Sherlock Holmes goes into action, and we searching for the answer.
 
-So, if you can’t find something, please tell us.
+So, if you can’t find something, please tell us. It’s pretty easy, the Contact Us link is at the bottom of every page. Then drop us an email, call us, message us via Facebook or tweet us. Then we’ll get onto it as fast as we can.
 
-It’s pretty easy, the Contact Us link is at the bottom of every page. Then drop us an email, message us via Facebook or tweet us, and we’ll get onto it.
+![Image alternate text](http://placehold.it/350x150)
 
 ### Conclusion
 
