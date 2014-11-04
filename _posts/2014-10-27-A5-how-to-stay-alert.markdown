@@ -67,3 +67,6 @@ Easy ways to do this, could include:
 
 There are two easy ways to get alerts. Though using a Watchlist of your stocks is the best way. And if something negative has occured at one of the stocks you own, then Stockflare is a great place for you to learn what alternatives there are.
 
+### Presentation materials
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/41128646" width="702" height="590" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
