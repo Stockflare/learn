@@ -6,7 +6,7 @@ difficulty: intermediate
 date:   2014-10-27 17:23:00
 categories: stockflare
 ---
-How to use our alerts to stay vigilant to key events that could impact your portfolio
+How to use our alerts to stay vigilant to key events that could impact your portfolio.
 
 <iframe width="700" height="525" src="//www.youtube.com/embed/LicEDKxnwQc" frameborder="0" allowfullscreen></iframe>
 
