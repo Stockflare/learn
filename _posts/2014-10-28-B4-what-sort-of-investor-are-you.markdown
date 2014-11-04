@@ -10,13 +10,13 @@ Let's work out what type of investor you are. A passive investor, an active one?
 
 <iframe width="700" height="525" src="//www.youtube.com/embed/MO6nUGhu1lQ" frameborder="0" allowfullscreen></iframe>
 
-## In this tutorial
+## What's this tutorial about?
 
 In this tutorial we discuss the differences between Growth, Value and Quality investment strategies.
 
 ### Table of contents
 
-In this presentation we are going to cover 5 topics. 
+In this presentation we are going to cover 5 topics: 
 
 0. The different schools of investing
 0. Growth
@@ -41,10 +41,12 @@ Passive investing is almost an admission of defeat! You decide that you can't be
 Defeat is a strong word. Retreat may be better.
 
 * You are focused on reducing the fees you pay
-* Investing is too much a headache or seems too complicated
+* Investing is too much of a headache or seems too complicated
 * You don't wish to spend the time managing your money yourself
  
-And despite this critism, passive investing is entirely sensible and practical for many people.
+And despite this critism, passive investing is entirely sensible and practical for many people. If you choose wisely, you can nearly match the returns of the market. 
+
+Which is better than most of the highly paid professional investors, who typically underperform, after they've pocketed their fees. 
 
 ### Part 2. Growth investing
 
@@ -65,7 +67,7 @@ What defines a value strategy? Value investors like:
 
 * Price
 * Cashflow / Asset Values
-* Ignored
+* Ignored Companies
 
 Value investors do not focus on:
 
@@ -80,7 +82,7 @@ What defines a quality strategy? Quality investors like:
 * Stable Cashflows
 * Good Managers
 
-Quality investors do not focus on:
+Quality investors are willing to compromise on:
 
 * Growth
 * Value
@@ -89,11 +91,11 @@ Quality investors do not focus on:
 
 Everyone has a different perspective and pyschology. Our likes and flavours differ. 
 
-Though when asked, most people will say they are a Quality Investor, searching for quality stocks. It's what we like to tell people.
+Though when asked, most people will say they are searching for quality stocks. It's what we like to tell people.
 
-However, most people lean towards being a Growth Investor or a Value Investor. It's best not to kid yourself.
+However, most people lean towards being a Growth Investor or a Value Investor. It's best not to kid yourself. The sooner you work out which you are, the better.
 
-Just answer a simple question. Why do you want to be:
+Just answer a simple question. Which do you want to do:
 
 0. Do you want to own hot stocks and ride the trends?
 0. Do you want to buy dollar bills for 80 cents? Knowing that it will require a waiting game.
@@ -102,4 +104,4 @@ Just answer a simple question. Why do you want to be:
 
 ### Conclusion
 
-In this tutorial, we've given you a simple way to self-analyse your own investing strategy. Regardless of the school you follow, Stockflare is here to help you pick stocks. Stocks that are great for you.
+In this tutorial, we've given you a simple way to self-analyse your own investing strategy. Regardless of the school you follow, Stockflare is here to help you pick stocks. We help you search for growth, value and quality stocks.
