@@ -23,7 +23,7 @@ We'll cover 4 topics
 0. Thirdly, what are the alternatives
 0. And finally are they for you
 
-### Part 1. So let’s get started with what are stocks.
+### Part 1. What are stocks?
 
 A lot of the time people forget that when you buy a stock you are actually buying a business. You aren’t buying numbers on the screen or charts that go up and down.
 
@@ -47,6 +47,8 @@ But, long-term stocks have outperformed the alternatives. And they have outperfo
 
 Let’s put this in number then. The US stock market for the last 140 years, overall, it’s been a pretty good investment, though, remember, it is risky, and there have been some really terrible periods.
 
+![Image alternate text](http://placehold.it/350x150)
+
 When you look at the math, the market is up over 8% per annum. So every 10 years, you double your money.
 But there is no denying that it is a rocky ride.
 
@@ -54,15 +56,17 @@ But there is no denying that it is a rocky ride.
 
 Well, there are lots of alternatives to stocks. So let’s explore a few of them. Let’s look at 5 types of investments and make a few generalisations.
 
+![Image alternate text](http://placehold.it/350x150)
+
 Firstly, why not leave you money at the bank? You give them your cash, they lend it to someone else, who pays the bank an interest rate, the bank then takes its cut, and whatever’s leftover goes to you. Not a lot, that is. Its a pretty boring investment but it’s reasonably safe.
 
-Next, you can invest in bonds. i.e. you are lending directly to governments and companies. So you cut out the middleman, the bank. You earn a higher amount, but the risk is greater, as you are lending directly. What if the person you lend to can’t pay you back. 
+Next, you can invest in bonds. i.e. you are lending directly to governments and companies. So you cut out the middleman, the bank. You earn a higher amount, but the risk is greater, as you are lending directly. There is no diversification. No government insurance of your deposit. What if the person you lend to can’t pay you back. 
 
-Third, there’s real estate. Buying a building renting it out. On average you should get a higher return here. But with the higher return comes higher risk. Real estate markets experience bubbles just like the stock market. It costs money to manage the building. And if you want to sell, it takes a lot of time. At least, its’ not as easy as taking your money out of the bank, or logging on and selling a stock.
+Third, there’s real estate. For example, buying a building and renting it out. On average you should get a higher return here. But with the higher return comes higher risk. Real estate markets experience bubbles just like the stock market. It costs money to manage the building. And if you want to sell, it takes a lot of time. At least, it's not as easy as taking your money out of the bank, or logging on and selling a stock.
 
 Which brings us to stocks. Which are probably more risky than the previous 3 investment types, but are likely to earn you more, if you can stick it out through thick and thin.
 
-And fifth are Gold, other commodities and currencies. I rank these as the riskiest, as they are not easy to understand. There is no fundamental driver to their price. With bonds its the interest rate, with real-estate it’s the rent, with stocks its the earnings of the business. But with commodities and currencies its more a matter of are there more buyers than sellers. Sure there are drivers of the price, like the economy, but it’s much more complicated than the other investments. Now, I’m not saying these are bad investments, just they are a lot more difficult to analyse.
+And fifth are gold, other commodities and currencies. I rank these as the riskiest, as they are not easy to understand. There is no fundamental driver to their price. With bonds its the interest rate, with real-estate it’s the rent, with stocks its the earnings of the business. But with commodities and currencies its more a matter of are there more buyers than sellers. Sure there are drivers of the price, like the economy, but it’s much more complicated than the other investments. Note, I’m not saying these are bad investments, just they are a lot more difficult to analyse.
 
 ### Part 4. Now to the heart of the tutorial. Are stocks for you?
 
