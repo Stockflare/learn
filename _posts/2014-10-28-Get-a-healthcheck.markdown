@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to get a health check for your portfolio"
+title:  "Get a health check for your portfolio"
 ttc:    6min
 difficulty: intermediate
 date:   2014-10-28 17:22:00
