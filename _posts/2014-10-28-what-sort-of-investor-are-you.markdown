@@ -34,7 +34,7 @@ There are 2 main strategies that people can follow.
   * Quality investing
 * Passive investing, hiring someone else to manage your money for you
 
- #### Passive investing
+#### Passive investing
  
 Passive investing is almost an admission of defeat! You decide that you can't beat the market yourself, so you decide to track the market.
 
