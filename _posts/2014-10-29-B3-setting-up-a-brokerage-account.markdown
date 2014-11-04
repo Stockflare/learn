@@ -105,3 +105,7 @@ And finally, remember all the mail. Don’t throw it out. Amongst the avalanche 
 ### Summary
 
 So setting up a brokerage account isn’t too painful. Just requires a lot of patience. And please drop us a note as we’d love to hear who you use and why. 
+
+### Presentation materials
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/41128669" width="702" height="590" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
