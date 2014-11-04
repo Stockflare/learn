@@ -111,4 +111,4 @@ Nothing. You do not trade immediately. It's time to check if the stock is a "bad
 
 ### Conclusion
 
-Getting a health check is pretty easy. All the data is on the Watchlist page. It's really quick to spot any potential bad-eggs. And if you do, Stockflare is the place to pick some new stocks.
+Getting a health check is pretty easy. All the data is on the Watchlist page. It's really quick to spot any potential bad-eggs. And if you do, Stockflare is the place to pick some new stocks. 
