@@ -67,7 +67,7 @@ What defines a value strategy? Value investors like:
 * Cashflow / Asset Values
 * Ignored
 
-Growth investors do not focus on:
+Value investors do not focus on:
 
 * Growth
 * Short-term / Buzz
@@ -80,7 +80,7 @@ What defines a quality strategy? Quality investors like:
 * Stable Cashflows
 * Good Managers
 
-Growth investors do not focus on:
+Quality investors do not focus on:
 
 * Growth
 * Value
