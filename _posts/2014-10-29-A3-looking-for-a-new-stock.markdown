@@ -26,13 +26,13 @@ We are going to cover 3 things
 
 At Stockflare, our Find Ideas page is one big database with every major company in the world. Here we can see there are over 8,000 companies in the US.
 
-![Image alternate text](http://placehold.it/350x150)
+![Stars by every stock](/images/where-are-the-stars.png)
 
 So how do we get the stock list down to a more manageable size. 
 
 Here there are 6 options for sorting the results and 6 options for filter. I’m a pretty conservative investor, so, I’m going keep the list sorted by size.
 
-![Image alternate text](http://placehold.it/350x150)
+![Sorting](/images/sorting.png)
 
 Next, let's use the filters
 
@@ -42,9 +42,9 @@ Next, let's use the filters
 * Then, how about large companies only
 * And finally, let’s add a valuation metric, say stocks trading below book value.
 
-![Image alternate text](http://placehold.it/350x150)
+![Filtering down](/images/4-financials.png)
 
-Wow, we are down to 3 companies from over 8,000 companies.
+Wow, we are down to 4 companies from over 8,000 companies.
 
 Now that’s just one flavour of filtering the enormous choice you have. So it’ll probably take you a few times to work out which filters suit your style of investing.
 
@@ -56,7 +56,7 @@ Remember, you can always dig deeper at Stockflare. In particular, one of the key
 
 After our filtering of the 8,000 companies in the US, we’ve got down to 3 stocks here in the Financial space. Let’s look at SunTrust.
 
-![Image alternate text](http://placehold.it/350x150)
+![SunTrust example](/images/suntrust-stars.png)
 
 First, let’s check the stars:
 
@@ -69,11 +69,11 @@ So, what about the rest of the analysis. Well, personally I always like to check
 
 Scrolling down, let’s see the full description. We click this box here. And we can see a little more on SunTrust. What sort of business it is in. And where it operates.
 
-![Image alternate text](http://placehold.it/350x150)
+![SunTrust Description](/images/suntrust-description.png)
 
 Then on recent results, we can see how sales and profits have been moving.
 
-![Image alternate text](http://placehold.it/350x150)
+![SunTrust Results](/images/suntrust-results.png)
 
 ### Part 3. What next?
 
@@ -89,15 +89,15 @@ So let’s quickly do these 3 tasks.
 
 Here we are back at SunTrust. Let scroll up to the top. Here’s the Watch button. And bingo its added.
 
-![Image alternate text](http://placehold.it/350x150)
+![Watch button](/images/watch.png)
 
 Next, let’s check out those competitors. Here down near the bottom of the page. A few big names are there, like Citigroup. And even a few foreign companies that are listed in the US. 
 
-![Image alternate text](http://placehold.it/350x150)
+![Competitors list](/images/suntrust-peers.png)
 
 Finally, let’s scroll back up and share the idea with a friend. 
 
-![Image alternate text](http://placehold.it/350x150)
+![Share](/images/email.png)
 
 So there we go. Finding a new stock idea, picking stocks is pretty easy using the filters at Find Ideas.
 
