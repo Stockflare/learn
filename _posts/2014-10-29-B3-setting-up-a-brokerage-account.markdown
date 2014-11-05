@@ -53,6 +53,8 @@ Here are some of the best know ones:
 * Scottrade
 * TD Ameritrade
 
+![List of brokers](/images/list-of-brokers.png)
+
 ### Part 2. What do you need to open a brokerage account?
 
 Firstly, you need to prepare yourself for a hideous questionnaire. Asking you all sorts of personal details.
