@@ -32,7 +32,7 @@ Typically there are 3 starting points
 
 Firstly, we need to pop up to the top of the page and click on Search. You’ll see this great big search bar. Let’s type in the name of a company. Say, Disney. And as we type the results start to display.
 
-![Image alternate text](http://placehold.it/350x150)
+![Searching for Disney](/images/disney-search.png)
 
 Not only is Disney there, but we can see some summary analysis of Disney, here inside of search.
 
@@ -40,7 +40,7 @@ Not only is Disney there, but we can see some summary analysis of Disney, here i
 
 If you are little more experienced, and know the ticker symbol, for example that XOM is the ticker for Exxon Mobil, again we get a quick and correct answer, typing in its symbol.
 
-![Image alternate text](http://placehold.it/350x150)
+![Searching for XOM](/images/xom-search.png)
 
 ### Finally, when you forget the name
 
@@ -55,7 +55,7 @@ Let’s say we are looking for that big competitor to Coca-Cola.
 * And look through the answers
 * Ah, there it is Pepsi.
 
-![Image alternate text](http://placehold.it/350x150)
+![Searching for Coke's competitor](/images/coke-competitor.png)
 
 So you can see that at Stockflare its really easy to find any stock:
 
@@ -69,7 +69,7 @@ Now that we’ve seen how simple it is to find a stock, how do we explore any st
 
 Let’s go back to the site, and search for McDonalds this time. Again, we use the big search bar. Now, let’s look at the summary data here inside search.
 
-![Image alternate text](http://placehold.it/350x150)
+![Summary data for McDonalds](/images/mcdonalds-summary.png)
 
 We can see
 
