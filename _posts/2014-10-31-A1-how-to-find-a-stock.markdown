@@ -84,19 +84,19 @@ But there is so much more to Stockflare. Just click through to the detailed stoc
 
 Look you can see just how weak the growth is at McDonalds. So yeah, its cheaper than its competitors, but right there in the growth box is the reason why?
 
-![Image alternate text](http://placehold.it/350x150)
+![McDonalds Detailed Page](/images/mcd-stars.png)
 
 And further down the page, you can see lots of other analysis. For example, what could 100 shares bought today, grow to in value to in 7 years time.
 
-![Image alternate text](http://placehold.it/350x150)
+![McDonalds Forecast](/images/mcd-growth.png)
 
 Plus at Stockflare, there are all the usual tools and information you’d expect. With background on the company, its financials.
 
-![Image alternate text](http://placehold.it/350x150)
+![McDonalds Key Stats](/images/mcd-stats.png)
 
 And even a pretty neat way to explore the competitors. The higher the star rating the nearer the top of the list.
 
-![Image alternate text](http://placehold.it/350x150)
+![McDonalds Competitors](/images/mcd-peers.png)
 
 So whether its a quick look with our summary data or digging into the details that interest you, Stockflare’s got all you need for a quick analysis of any stock.
 
@@ -110,7 +110,7 @@ Over here at Stockflare, this sets off alarm bells. Personally, I get depressed 
 
 So, if you can’t find something, please tell us. It’s pretty easy, the Contact Us link is at the bottom of every page. Then drop us an email, call us, message us via Facebook or tweet us. Then we’ll get onto it as fast as we can.
 
-![Image alternate text](http://placehold.it/350x150)
+![Contact us](/images/contact-us.png)
 
 ### Conclusion
 
