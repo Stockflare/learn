@@ -46,7 +46,7 @@ Defeat is a strong word. Retreat may be better.
 * Investing is too much of a headache or seems too complicated
 * You don't wish to spend the time managing your money yourself
  
-And despite this critism, passive investing is entirely sensible and practical for many people. If you choose wisely, you can nearly match the returns of the market. 
+And despite this criticism, passive investing is entirely sensible and practical for many people. If you choose wisely, you can nearly match the returns of the market. 
 
 Which is better than most of the highly paid professional investors, who typically underperform, after they've pocketed their fees. 
 
@@ -91,7 +91,7 @@ Quality investors are willing to compromise on:
 
 ### Part 5. What is best for you?
 
-Everyone has a different perspective and pyschology. Our likes and flavours differ. 
+Everyone has a different perspective and psychology. Our likes and flavours differ. 
 
 Though when asked, most people will say they are searching for quality stocks. It's what we like to tell people.
 

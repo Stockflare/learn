@@ -54,7 +54,7 @@ Secondly, you can buy an investment fund. For example, a mutual fund that is act
 
 For example:
 
-* Blackrock
+* BlackRock
 * Fidelity
 * Franklin Templeton
 * Schwab

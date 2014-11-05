@@ -61,7 +61,7 @@ For us the most critical metric is the quality of the business itself. So we giv
 * Next we check if the business is growing.
 * And finally, we look at the cashflow of the business. For example is it returning cash to me as a shareholder.
 
-#### Profitablity
+#### Profitability
 
 So when we say profitable, what numbers are we looking at?
 

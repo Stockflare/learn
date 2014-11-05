@@ -83,7 +83,7 @@ It is critical to remember that TV is entertainment, not research or actionable 
 
 * Sensationalist
 * Predict the short-term
-* Appear knowledgeable and definitive in their views. Even when anyone's guess is as good as everyone elses
+* Appear knowledgeable and definitive in their views. Even when anyone's guess is as good as everyone else's
  
 The talk-heads are of limited use.
 
@@ -101,11 +101,11 @@ But it is just their view. And it's biased. So you can't blanket take what they 
 
 #### Learning from the investors
 
-The investors are an equally valueable source of expertise. They's folks are actually doing the investing, not just talking about it, like the brokers.
+The investors are an equally valuable source of expertise. These folks are actually doing the investing, not just talking about it, like the brokers.
 
 However, actions speak louder than words. So take any commentary as that, and focus on the actual trades they make.
 
-Fortunately, most professional investors are obliged to publish the list of stocks they own, the top 10 holdings, in particular. So if you like an investor, there stategy, then:
+Fortunately, most professional investors are obliged to publish the list of stocks they own, the top 10 holdings, in particular. So if you like an investor, there strategy, then:
 
 * Look at his top 10 holdings
 * If there are names you don't recognise, investigate them
@@ -121,7 +121,7 @@ The news channels don't get the inside story on anything:
 * They tell you when your stock has tanked, not when it's about to tank
 * They tell you when a stock has become hot, not when its about to get hot
  
-Though, they have one saving grace, which is the occassional interview with a legendary investor or CEO. These segments can be gold. If so, this content will have a very long shelf life. So no need to watch it live. There's always YouTube!
+Though, they have one saving grace, which is the occasional interview with a legendary investor or CEO. These segments can be gold. If so, this content will have a very long shelf life. So no need to watch it live. There's always YouTube!
 
 ### Part 5. Conclusion
 

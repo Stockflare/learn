@@ -37,7 +37,7 @@ If we click open any stock widget we can see an alarm icon. Clicking this icon o
 
 #### Your alerts page
 
-Alternative, at the top right of the page, there is an alerts icon. Opening this page it will check what alerts have occured in the last 24 hours for the stocks in your portfolio.
+Alternative, at the top right of the page, there is an alerts icon. Opening this page it will check what alerts have occurred in the last 24 hours for the stocks in your portfolio.
 
 ![Alerts page](/images/my-alerts.png)
 
@@ -46,16 +46,16 @@ Alternative, at the top right of the page, there is an alerts icon. Opening this
 We provide 5 different types of alerts. They are all automatic. When a key event occurs, with specific thresholds being crossed, then an alert is triggers. The five alerts are:
 
 * Price: If the price moves by more than 2%, up or down, an alert is triggered
-* Volume: If the 10 day average volume increases more than 10%, signalling a doubling in the trading in the last 24 hours, an alert is triggered
+* Volume: If the 10 day average volume increases more than 10%, signaling a doubling in the trading in the last 24 hours, an alert is triggered
 * Star: If a stock gains stars to become a 5-star stock, or loses it's 5 star rating, then an alert is triggered
 * Recommendation: When the Wall Street rating changes from Buy, Sell or Hold, an alert is triggered
-* Target Price: When there is a significant change in the target price of the Wall Street analyts, then an alert is triggered
+* Target Price: When there is a significant change in the target price of the Wall Street analysts, then an alert is triggered
 
 ### Do I take action?
 
 Well, no. Too often people react too quickly to the news, without actually considering the long-term implications. Sometimes the best action is inaction.
 
-However, an alert is a good reason to revisit the logic of owning a stock. Ask youself, is it a bad-egg? Would you buy the stock today if you didn't have it in your portfolio?
+However, an alert is a good reason to revisit the logic of owning a stock. Ask yourself, is it a bad-egg? Would you buy the stock today if you didn't have it in your portfolio?
 
 Easy ways to do this, could include:
 
@@ -65,7 +65,7 @@ Easy ways to do this, could include:
  
 ### Conclusion
 
-There are two easy ways to get alerts. Though using a Watchlist of your stocks is the best way. And if something negative has occured at one of the stocks you own, then Stockflare is a great place for you to learn what alternatives there are.
+There are two easy ways to get alerts. Though using a Watchlist of your stocks is the best way. And if something negative has occurred at one of the stocks you own, then Stockflare is a great place for you to learn what alternatives there are.
 
 ### Presentation materials
 
