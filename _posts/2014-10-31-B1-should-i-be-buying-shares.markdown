@@ -47,7 +47,7 @@ But, long-term stocks have outperformed the alternatives. And they have outperfo
 
 Let’s put this in number then. The US stock market for the last 140 years, overall, it’s been a pretty good investment, though, remember, it is risky, and there have been some really terrible periods.
 
-![Image alternate text](http://placehold.it/350x150)
+![US stock market](/images/us-market.png)
 
 When you look at the math, the market is up over 8% per annum. So every 10 years, you double your money.
 But there is no denying that it is a rocky ride.
@@ -56,7 +56,7 @@ But there is no denying that it is a rocky ride.
 
 Well, there are lots of alternatives to stocks. So let’s explore a few of them. Let’s look at 5 types of investments and make a few generalisations.
 
-![Image alternate text](http://placehold.it/350x150)
+![Five groups of investment](/images/types-of-investments.png)
 
 Firstly, why not leave you money at the bank? You give them your cash, they lend it to someone else, who pays the bank an interest rate, the bank then takes its cut, and whatever’s leftover goes to you. Not a lot, that is. Its a pretty boring investment but it’s reasonably safe.
 
