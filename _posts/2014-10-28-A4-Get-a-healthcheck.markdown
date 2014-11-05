@@ -50,7 +50,7 @@ Alternatively, you can add a specific number of shares that you own.
 
 At the watchlist you can untick a stock to remove it from your watchlist. 
 
-![Removing from watchlist](/images/watchlist-remove.png)
+![Removing from watchlist](/images/watchlist-removing.png)
 
 And you can use the Projected Portfolio section to edit the number of shares in your portfolio.
 
