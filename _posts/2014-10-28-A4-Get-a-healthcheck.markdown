@@ -34,27 +34,27 @@ There are three easy ways
 
 When you search for a stock, or are looking at any widget, you'll see a little eye. Click on this eye, it goes blue, and there you are. It's in your watch list.
 
-![Image alternate text](http://placehold.it/350x150)
+![Adding from a widget](/images/search-add.png)
 
 #### At a stock page
 
 Let's take the example of Johnson & Johnson. You click through the the stock page. At the top of the page there is a big blue Watch button. Once clicked. It turns red.
 
-![Image alternate text](http://placehold.it/350x150)
+![Adding from a stock page](/images/stock-add.png)
 
 Alternatively, you can add a specific number of shares that you own.
 
-![Image alternate text](http://placehold.it/350x150)
+![Adding a position](/images/position-add.png)
 
 ### At the Watchlist
 
 At the watchlist you can untick a stock to remove it from your watchlist. 
 
-![Image alternate text](http://placehold.it/350x150)
+![Removing from watchlist](/images/watchlist-remove.png)
 
 And you can use the Projected Portfolio section to edit the number of shares in your portfolio.
 
-![Image alternate text](http://placehold.it/350x150)
+![Editing position](/images/position-edit.png)
 
 ### Part 2. Running a Health Check
 
@@ -67,21 +67,19 @@ There are 4 easy health checks you can run
  
 #### Stars
 
-It's easy to eyeball the stocks in your portfolio. If any are 2 or less stars, you should reconsider them.
+It's easy to check if the stocks in your portfolio. If any are 2 or less stars, you should reconsider them.
 
-![Image alternate text](http://placehold.it/350x150)
+![Checking the stars](/images/watchlist-stars.png)
 
 #### Short term
 
 Wall Street research analysts publish a target price for every stock they write about. We look at the average target price. If Wall Street thinks one of your stocks could go down, then it's time to reconsider the investment.
 
-![Image alternate text](http://placehold.it/350x150)
+![Wall Street's opinion](/images/wall-street-opinion.png)
 
 #### Buy, Sell, Hold
 
 Wall Street also publishes its views on the shares. This information is what the big asset management firms pay tens of millions of dollars to get access to. But we have access to the recommendations of Wall Street, in summary form. Any of your stocks that are rated Hold, Sell, or Strong Sell, merit a check. 
-
-![Image alternate text](http://placehold.it/350x150)
 
 Wall Street is often wrong. So you need to be careful with this information. But they could have legitimate reasons to hate a stock you own.
 
@@ -89,7 +87,7 @@ Wall Street is often wrong. So you need to be careful with this information. But
 
 Finally, at the bottom of the page we have your portfolio and it's projected growth. We combine, Wall Street's long-term growth forecast, Wall Street's forecast for dividends and PE forecasts to calculate a projected return for each stock. 
 
-![Image alternate text](http://placehold.it/350x150)
+![Projected portfolio](/images/projected-portfolio.png)
 
 This calculation is a normalisation of the forecast data of Wall Street. Highly rated stocks, revert to trend. Low growth stocks, revert to trend. We ignore the subjective data fro Wall Street (their price targets and recommendations) and we focus on the numbers and forecasts.
 
