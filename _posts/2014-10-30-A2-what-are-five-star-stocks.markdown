@@ -29,7 +29,7 @@ We’ll divide our time into 3 parts
 Now, if you are wondering what I am talking about when I say 5 stars, just look at Stockflare.com
 You’ll see the stars beside every stock.
 
-![Image alternate text](http://placehold.it/350x150)
+![Stars by every stock](/images/where-are-the-stars.png)
 
 #### Why?
 
@@ -76,7 +76,7 @@ You make be asking, what on earth is that.
   * Each share of those shares owns 2 dollars of profit.
 * That’s what Earnings per share is, or EPS for short. 
 
-![Image alternate text](http://placehold.it/350x150)
+![What is EPS](/images/what-is-eps.png)
 
 #### Growth
 
@@ -104,7 +104,7 @@ And other businesses pay some of it out to the shareholders. These payments are 
 
 Though it’s pretty rare to see all the profits paid out. So in our 2 dollars of earnings example, we could expect maybe 50 cents being lodged into our account.
 
-![Image alternate text](http://placehold.it/350x150)
+![What are dividends](/images/what-are-dividends.png)
 
 #### Valuation: cheap or expensive
 
@@ -150,9 +150,9 @@ So there you have it!
 
 Let’s have a quick look at Stockflare and see all this analysis.
 
-How about we choose Microsoft. We can see it’s a 4 star stock. 
+How about we choose Microsoft. We can see it’s a 3 star stock. 
 
-![Image alternate text](http://placehold.it/350x150)
+![Microsoft example](/images/mcd-3-stars.png)
 
 So, on the right hand side we can see the 3 business stars. 
 
@@ -163,7 +163,7 @@ So, on the right hand side we can see the 3 business stars.
 Then on the left
 
 * We can see that it's cheap
-* In terms of sentiment, Wall Street thinks its worth more than today’s price & they are recommending their clients "Buy" it.
+* In terms of sentiment, Wall Street thinks its worth only a tiny bit more than today’s price & they are recommending their clients "Hold" it.
 
 ### Part 3. Will 5 star stocks help you?
 
