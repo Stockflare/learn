@@ -33,13 +33,13 @@ We find the alerts in two place
 
 If we click open any stock widget we can see an alarm icon. Clicking this icon opens the alerts summary, with a list of any key events for that widget. 
 
-![Image alternate text](http://placehold.it/350x150)
+![Alerts in widgets](/images/widget-alerts.png)
 
 #### Your alerts page
 
 Alternative, at the top right of the page, there is an alerts icon. Opening this page it will check what alerts have occured in the last 24 hours for the stocks in your portfolio.
 
-![Image alternate text](http://placehold.it/350x150)
+![Alerts page](/images/my-alerts.png)
 
 ### Part 2. What different alerts are there
 
