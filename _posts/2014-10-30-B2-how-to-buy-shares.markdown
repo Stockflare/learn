@@ -66,9 +66,11 @@ But be warned, these are not necessarily the best options for you, as there are 
 
 Here’s a calculation direct from the US government. Say you save 25,000 dollars and you manage to grow it by 7% a year for 35 years. That’s pretty good. It’ll compound nicely. And let’s assume you pay fees of half a percent. Well, you’ll grow your savings 9 fold. 
 
+![Paying a 0.5% fee](/images/half-percent-fee.png)
+
 But let’s be more realistic on the fees. And increase it to one and half percent. They there is a dramatic decline in your savings. In fact a 28% decline. Wow that’s a big loss of savings.
 
-![Image alternate text](http://placehold.it/350x150)
+![Paying a 1.5% fee](/images/oneandhalf-percent-fee.png)
 
 ### Next let’s look at the performance of the professionals
 
@@ -76,7 +78,7 @@ But let’s be more realistic on the fees. And increase it to one and half perce
 * In Europe it’s one in 5 that outperforms
 * And for global funds only 1 in 10 that outperforms.
 
-![Image alternate text](http://placehold.it/350x150)
+![Fund performance](/images/fund-performance.png)
 
 So there is a really high chance that whoever you pick to be your manager will actually deliver you some pretty poor performance.
 
