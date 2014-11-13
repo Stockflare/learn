@@ -65,16 +65,14 @@ layout: default
 
           <div class="articles">
             {% for post in site.categories.investing %}
-            <a href="{{ post.url }}">
-              <article>
-                <header>
-                  <h3 class="pull-left"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-                  <div class="pull-right difficulty {{ post.difficulty }}">{{ post.difficulty | capitalize }}</div>
-                  <div class="pull-right time">{{ post.ttc }}</div>
-                </header>
-                <p>{{ post.excerpt }}</p>
-              </article>
-            </a>
+            <article>
+              <header>
+                <h3 class="pull-left"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                <div class="pull-right difficulty {{ post.difficulty }}">{{ post.difficulty | capitalize }}</div>
+                <div class="pull-right time">{{ post.ttc }}</div>
+              </header>
+              <p>{{ post.excerpt }}</p>
+            </article>
             {% endfor %}
         </div>
 
