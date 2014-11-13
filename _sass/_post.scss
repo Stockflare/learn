@@ -7,15 +7,15 @@ section.post {
       margin: 40px;
 
       h1 {
-        font-size: 52px;
+        font-size: 42px;
         color: #55a4f2;
-        font-weight: 300;
+        font-weight: 500;
         text-align: center;
       }
 
       h2 {
         font-size: 18px;
-        font-weight: 300;
+        font-weight: 400;
         color: #a7aab9;
         margin: 20px;
       }
@@ -38,6 +38,12 @@ section.post {
 
       & > * {
         margin: 20px 0;
+      }
+
+      iframe
+      {
+        width:100%;
+        height:500px;
       }
 
       .video {
