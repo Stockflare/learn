@@ -54,7 +54,7 @@ Now that we have zoomed in on a short list of stocks. how do we dig into the det
 
 Remember, you can always dig deeper at Stockflare. In particular, one of the key things we encourage everyone to do is to make sure they understand what the business does.
 
-After our filtering of the 8,000 companies in the US, we’ve got down to 3 stocks here in the Financial space. Let’s look at SunTrust.
+After our filtering of the 8,000 companies in the US, we’ve got down to 3 stocks here in the Financial space. Let’s look at Citigroup.
 
 ![SunTrust example](/images/suntrust-stars.png)
 
@@ -67,7 +67,7 @@ First, let’s check the stars:
 
 So, what about the rest of the analysis. Well, personally I always like to check what the business does and what the recent results look like.
 
-Scrolling down, let’s see the full description. We click this box here. And we can see a little more on SunTrust. What sort of business it is in. And where it operates.
+Scrolling down, let’s see the full description. We click this box here. And we can see a little more on Citigroup. What sort of business it is in. And where it operates.
 
 ![SunTrust Description](/images/suntrust-description.png)
 
@@ -87,11 +87,11 @@ Well there are at least three pretty obvious things you could do.
 
 So let’s quickly do these 3 tasks.
 
-Here we are back at SunTrust. Let scroll up to the top. Here’s the Watch button. And bingo its added.
+Here we are back at Citigroup. Let scroll up to the top. Here’s the Watch button. And bingo its added.
 
 ![Watch button](/images/watch.png)
 
-Next, let’s check out those competitors. Here down near the bottom of the page. A few big names are there, like Citigroup. And even a few foreign companies that are listed in the US. 
+Next, let’s check out those competitors. Here down near the bottom of the page. A few big names are there. And even a few foreign companies that are listed in the US. 
 
 ![Competitors list](/images/suntrust-peers.png)
 
